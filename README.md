@@ -5,5 +5,5 @@
 | **프로그래밍 언어** | Java 11 |
 | **프레임워크** | Spring Boot 2.7.18 |
 | **빌드 도구** | Gradle |
-| **View** | React |
+| **View** | React✨ |
 | **IDE** | IntelliJ IDEA |
